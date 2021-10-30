@@ -1,0 +1,21 @@
+{
+	"name": "starter-project",
+	"version": "1.0.0",
+	"description": "starter project",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"sass": "gulp watch"
+	},
+	"author": "CarloJS",
+	"license": "MIT",
+	"devDependencies": {
+		"browser-sync": "^2.27.6",
+		"gulp": "^4.0.2",
+		"gulp-sass": "^5.0.0",
+		"sass": "^1.43.4"
+	},
+	"dependencies": {
+		"no-pollution": "^1.0.2"
+	}
+}
